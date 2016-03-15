@@ -26,7 +26,7 @@ A wrapper script collects :
 A Sample Interaction with application is given below:
 ![Results](https://github.com/vizkids/Map-Reduce-K-NN/blob/master/Results.JPG)
 
- #### Whats in the package ?
+#### Whats in the package ?
  
 1.  Reference data - referene\_knn\_dataset.csv
     It contains sample inventory features of laptop datasets retrieved from eBay as comma seperated values.
