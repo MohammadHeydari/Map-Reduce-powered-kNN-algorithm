@@ -32,7 +32,6 @@ A Sample Interaction with application is given below:
     It contains sample inventory features of laptop datasets retrieved from eBay as comma seperated values.
     It is treated as reference data points for computing distances. 
     The features are in order *hard disk space,RAM,processor speed,price*
-
 2.  Mapper Script - mapper.py
 3.  Reducer Script - reducer.py
 4.  Wrapper Script - wrapper.py
